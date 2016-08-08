@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="1"
-    android:background="@android:color/holo_green_dark"
+    android:background="@drawable/waves"
     >
     <!-- Note: The dimensions declared in this file is currently
     overwritten after inflation-->
